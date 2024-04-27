@@ -55,7 +55,7 @@ jobs:
     needs: [prepare]
     strategy:
       matrix:
-        file: [ Colloquium_20240430 ]
+        file: [ README, Colloquium_20240430 ]
 
     runs-on: ubuntu-latest
     permissions:
