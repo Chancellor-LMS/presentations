@@ -3,6 +3,12 @@ marp: true
 theme: qut
 ---
 
+# Links
+
+- [Colloquium Presentation](./Colloquium_20240430.html)
+
+---
+
 # Marp for VS Code
 
 [Marp](https://marp.app/#get-started) allows the creation of slides using Markdown, which makes it extremely fast and easy to create slides. It also allows the use of CSS to style the slides.
